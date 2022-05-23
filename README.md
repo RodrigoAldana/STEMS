@@ -1,2 +1,2 @@
 # STEMS
-Spatio-TEMPoral Smoothing distributed kalman filter project
+Spatio-TEMporal Smoothing distributed kalman filter project
